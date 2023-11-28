@@ -2,7 +2,7 @@
 
 A web application that leverages pure WebRTC protocal, Google Firestore as a signaling server, and Chromium Tab sharing protocal to allow screen sharing with audio, which enable the ability for folks to catch up and enjoy music and videos together despite the distance.
 
-<a href="" target="_blank">Application</a>
+<a href="https://love-link.vercel.app/" target="_blank">Application</a>
 
 # Motivation
 
