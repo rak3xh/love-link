@@ -6,7 +6,7 @@ A web application that leverages pure WebRTC protocal, Google Firestore as a sig
 
 # Motivation
 
-I'm currently in a long distance relationship myself and has been for the past three years. I understand the longing desire to watch and share experiences with your partner, and how most platforms out there are not dedicate to this need, while allowing video conversation simultaneously. I am setting out to solve the problem once and for all, hence the creation of Love Link.
+To all the people who are in a Long Distance Relationship. I understand the longing desire to watch and share experiences with your partner, and how most platforms out there are not dedicate to this need, while allowing video conversation simultaneously. I am setting out to solve the problem once and for all, hence the creation of Love Link.
 
 # Features
 
